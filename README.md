@@ -21,10 +21,10 @@ This document roughly describes the operation of the femtosecond laser system an
 1. [Overview of the Setup](#overview-of-the-setup)
 2. [Startup Guide](#startup-guide)
 3. [Experimental Procedures](#experimental-procedures)
-4. [Maintenance Steps](#maintenance-procedures)
-5. [Troubleshooting Steps](#troubleshooting)
+4. [Maintenance Procedures](#maintenance-procedures)
+5. [Troubleshooting](#troubleshooting)
 
-## 1. Overview of the Setup
+## 1. #Overview of the Setup
 
 ![Schematic of the experimental setup in MP011.](fig_ch2_setup-UED.png)
 
@@ -80,7 +80,7 @@ For reference, the experimental methods section of the theses by [Meng Gao](http
 | COM18 | Electrometer (on P6)
 | COM25 | High voltage power supply (on P3)
 
-## 2. Startup Guide
+## 2. [Startup Guide](https://github.com/liunelson/MP011-SOP#startup-guide)
 
 ### 2.1 Laser System
 
@@ -216,7 +216,7 @@ For reference, the experimental methods section of the theses by [Meng Gao](http
 16.	Click `Reset` to reset the stage encoders to 0.
 17.	Click `Initialize` in the `Stage (Indexer 4)` subsection.
 
-## 3. Experimental Procedure
+## 3. #Experimental Procedures
 
 ### 3.1 Check Laser Pulse Compression
 1. Manually open the THG shutter (Uniblitz).
@@ -259,7 +259,7 @@ For reference, the experimental methods section of the theses by [Meng Gao](http
 
 To-do: Describe what each channel (A,B, etc.) on the pulse generator (Quantum Composers 9520 Series) means.
 
-## 4. Maintenance Steps
+## 4. #Maintenance Procedures
 
 - Chillers: Water needs to be changed; add anti-algae product. Every 6 months, currently set for February and August.
 - Big Thermo Fischer chiller: Change filter every 3–4 years, depending on the chiller flow rate (2–3 gal/min).
@@ -268,7 +268,7 @@ To-do: Describe what each channel (A,B, etc.) on the pulse generator (Quantum Co
 - Laser system: Clean the oscillator if modelocking is off or power is too low; clean the mirrors for the pump light in the REGEN every 2–4 weeks.
 - Chemicals: Dispose of bin contents whenever full (7th floor of the Lash Miller building).
 
-## 5. Troubleshooting Steps
+## 5. #Troubleshooting
 
 | Problem | Solution |
 | ------------- |---------------|
