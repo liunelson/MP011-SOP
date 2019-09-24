@@ -1,6 +1,6 @@
 # Standard Operating Procedure for the MP011 Lab
 
-This document details the operation of the femtosecond laser system and ultrafast electron diffraction (UED) setup of the [R. J. Dwayne Miller group](https://lphys.chem.utoronto.ca) in room MP011 of the [McLennan Physical Laboratories](https://www.physics.utoronto.ca) at the University of Toronto. The description herein were prepared by Lai Chung Liu and Henrike M. Müller-Werkmeister, last updated in February 2015. 
+This document roughly describes the operation of the femtosecond laser system and ultrafast electron diffraction (UED) setup of the [R. J. Dwayne Miller group](https://lphys.chem.utoronto.ca) in room MP011 of the [McLennan Physical Laboratories](https://www.physics.utoronto.ca) at the University of Toronto. It was prepared by Drs. [Lai Chung Liu](https://scholar.google.com/citations?hl=en&user=zbmE0IIAAAAJ), [Henrike M. Müller-Werkmeister](https://scholar.google.com/citations?hl=en&user=fA83yPsAAAAJ), and [Yifeng Jiang](https://scholar.google.com/citations?hl=en&user=rJL5HroAAAAJ); last updated in February 2015. Comments may be address by posting in [Issues](https://github.com/liunelson/MP011-SOP/issues) or by contacting Dr. [Samansa Maneshi](mailto:smaneshi@lphys.chem.utoronto.ca) or any of the [current students of the group](https://lphys.chem.utoronto.ca).
 
 ## TL;DR
 
@@ -35,6 +35,8 @@ For reference, the experimental methods section of the theses by [Meng Gao](http
 #### Optical Path
 
 ### 1.2 UED Setup
+
+![Photo of the UED setup.](fig_MP011_UED.png)
 
 #### Schematic of Vacuum System
 
