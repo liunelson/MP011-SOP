@@ -42,6 +42,8 @@ For reference, the experimental methods section of the theses by [Meng Gao](http
 
 ![Architecture of the software-hardware interface for instrument control and data acquisition.](fig_ch2_MP011-net.png)
 
+![Screenshot of the GUI of the instrument control and data acquisition app.](fig_ch2_MP011-app.png)
+
 #### Internet Router Settings
 
 | Settings | Value |
